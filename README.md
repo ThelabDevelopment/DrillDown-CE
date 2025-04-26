@@ -4,7 +4,7 @@ This is the open-sourced codebase of the factory building game Drill Down, relea
 
 With Community Is Connected in it for updates and idea with maintainers idea
 
-# Binaries for Android and PC are available at [dakror itch.io](https://dakror.itch.io/drill-down).
+# Original Binaries for Android and PC are available at [dakror itch.io](https://dakror.itch.io/drill-down).
 
 # Roadmap
 - [ ] Add Mod Loader 
