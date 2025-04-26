@@ -1,8 +1,17 @@
-# Drill Down
+# Drill Down Community Edition
 
 This is the open-sourced codebase of the factory building game Drill Down, released in 2019 on Steam and Google Play. 
 
-Binaries for Android and PC are available at [itch.io](https://dakror.itch.io/drill-down).
+With Community Is Connected in it for updates and idea with maintainers idea
+
+# Binaries for Android and PC are available at [dakror itch.io](https://dakror.itch.io/drill-down).
+
+# Roadmap
+- [ ] Add Mod Loader 
+- [ ] Support Community Made Mod Loader
+- [ ] Add New Compatibility for Android 14+
+- [ ] Support IOS (i guess)
+
 
 ## Building from source
 
