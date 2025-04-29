@@ -40,11 +40,11 @@ android {
         exclude 'META-INF/robovm/ios/robovm.xml'
     }
     defaultConfig {
-        applicationId "de.dakror.quarry"
+        applicationId "ce.thelab.drilldown"
         minSdkVersion 19
         targetSdkVersion 30
-        versionCode 122
-        versionName "v122"
+        versionCode 122b1
+        versionName "v122-b1_alpha"
         multiDexEnabled false
     }
     buildTypes {
